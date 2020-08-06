@@ -68,7 +68,7 @@ const Hero = ({
                 className="m-0 mb-32 reveal-from-bottom"
                 data-reveal-delay="400"
               >
-                Velocitrackers works to keeps you up to date on your asset
+                Velocitrackers works to keep you up to date with your asset
                 management operations, so you don't have to.
               </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
